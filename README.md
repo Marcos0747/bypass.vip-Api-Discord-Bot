@@ -1,4 +1,7 @@
-# bypass.vip-Api-Discord-Bot
+
+
+# YA NO FUNCIONA
+
 Un bot de discord para bypassear linkvertise
 
 El bot borrará el contenido bypasseado al pasar 5 minutos.
